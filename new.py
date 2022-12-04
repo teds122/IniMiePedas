@@ -48,7 +48,7 @@ selected = option_menu(
 if selected == "Home":
 
     # Buat Judul
-    st.markdown("<h1 style='text-align: center; color: black;'>INI MIE PEDAS</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center;'>INI MIE PEDAS</h1>", unsafe_allow_html=True)
 
 
     def load_lottieurl(url: str):
