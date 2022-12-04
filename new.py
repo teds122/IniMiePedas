@@ -71,7 +71,7 @@ if selected == "Home":
         key=None,
     )
 
-    st.markdown("<h2 style='text-align: center; color: black;'>Silahkan Pilih Pesanan Anda 🍜</h1>", unsafe_allow_html=True)
+    st.markdown("<h2 style='text-align: center;'>Silahkan Pilih Pesanan Anda 🍜</h1>", unsafe_allow_html=True)
 
 
     # Buat input duls
